@@ -1,6 +1,6 @@
 # Hi, I'm [Tayyib BASBUNAR](https://www.blackcater.win/) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com//in/tayyib-basbunar/)
+
 
 ## Welcome to my GitHub profile!
 
